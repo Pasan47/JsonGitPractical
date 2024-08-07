@@ -1,7 +1,7 @@
 {
     "name": "John Doe",
     "age": 30,
-    "city": "New York",
+    "city": "California",
     "isStudent": false,
     "address": {
       "street": "123 Main St",
