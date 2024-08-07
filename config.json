@@ -4,7 +4,7 @@
     "city": "California",
     "isStudent": false,
     "address": {
-      "street": "123 Main St",
+      "street": "124 main road",
       "zipcode": "10001"
     }
 }
