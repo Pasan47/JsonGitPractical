@@ -1,9 +1,7 @@
 {
     "name": "John Doe singh",
     "age": 31,
-
-    "city": "Sri Lanka",
-
+    "city": "Los Angelies",
     "isStudent": false,
     "address": {
       "street": "124 main road",
