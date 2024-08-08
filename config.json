@@ -1,9 +1,13 @@
 {
     "name": "John Doe singh",
     "age": 31,
+<<<<<<< HEAD
 
     "city": "Tokyo",
 
+=======
+    "city": "Sri Lanka",
+>>>>>>> u9feature
     "isStudent": false,
     "address": {
       "street": "124 main road",
