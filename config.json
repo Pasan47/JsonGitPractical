@@ -1,10 +1,10 @@
 {
-    "name": "John Doe singh",
-    "age": 31,
-    "city": "California",
-    "isStudent": false,
-    "address": {
-      "street": "124 main road",
-      "zipcode": "10005"
-    }
+  "name": "John Doe singh",
+  "age": 31,
+  "city": "New York",
+  "isStudent": false,
+  "address": {
+    "street": "124 main road",
+    "zipcode": "10005"
+  }
 }
