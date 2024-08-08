@@ -1,7 +1,7 @@
 {
     "name": "John Doe singh",
     "age": 31,
-    "city": "California",
+    "city": "Tokyo",
     "isStudent": false,
     "address": {
       "street": "124 main road",
